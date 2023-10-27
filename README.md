@@ -1,4 +1,4 @@
-# Repository with snippets.
+# Snippets repository.
 
 ## Content:
 
