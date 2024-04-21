@@ -1,0 +1,18 @@
+{
+	"c-start.code" : {
+		"prefix": "c",
+		"body": [
+			"#include <stdio.h>",
+			"#include <stdlib.h>",
+			"",
+			"int main() {",
+					"",
+					"	$0",
+					"",
+    				"	return 0;",
+			"}",
+			""
+		],
+		"description": "Snippet to start a C file with the inicial basic commands."
+	}
+}
