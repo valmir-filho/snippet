@@ -1,7 +1,8 @@
 # Snippets repository.
 
-## Content:
+## Contents:
 
-- A snippet to start a "C" file with the initial basic commands.
+- A snippet to start a "C" file with the initial basic commands;
+- Oracle SQL instructions.
 
-### Used IDE: Visual Studio Code.
+### Used IDEs: Oracle SQL Developer and Visual Studio Code.
