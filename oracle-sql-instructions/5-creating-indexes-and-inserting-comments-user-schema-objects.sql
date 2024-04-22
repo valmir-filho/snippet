@@ -1,4 +1,4 @@
--- Creating the Indexes. --
+-- Creating the indexes. --
 CREATE INDEX emp_department_ix ON employees (department_id);
 CREATE INDEX emp_job_ix ON employees (job_id);
 CREATE INDEX emp_manager_ix ON employees (manager_id);
