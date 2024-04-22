@@ -1,7 +1,7 @@
--- Change the current session's context to the pluggable database XEPDB1
+-- Change the current session's context to the pluggable database XEPDB1 --
 ALTER SESSION SET CONTAINER = XEPDB1;
 
--- Drop the user HR along with all of its associated objects recursively
+-- Drop the user HR along with all of its associated objects recursively --
 DROP USER HR CASCADE;
 
 -- Create a new user named HR with the password 'hr'
