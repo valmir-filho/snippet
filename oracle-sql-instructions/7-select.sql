@@ -9,5 +9,8 @@ SELECT * FROM employees;
 The SQL command retrieves two specific columns, department_id and location_id,
 from the departments table in a database.
 */
-SELECT department_id, location_id FROM departments;
+SELECT
+  department_id, location_id
+FROM
+  departments;
 
